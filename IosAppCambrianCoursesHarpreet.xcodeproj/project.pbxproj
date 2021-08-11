@@ -13,6 +13,10 @@
 		185AF8A6269A462400F82D6E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 185AF8A4269A462400F82D6E /* Main.storyboard */; };
 		185AF8A8269A462800F82D6E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 185AF8A7269A462800F82D6E /* Assets.xcassets */; };
 		185AF8AB269A462800F82D6E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 185AF8A9269A462800F82D6E /* LaunchScreen.storyboard */; };
+		18B5F9EE26C4964800DC989A /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B5F9ED26C4964800DC989A /* Course.swift */; };
+		18B5F9F026C4965700DC989A /* CourseList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B5F9EF26C4965700DC989A /* CourseList.swift */; };
+		18B5F9F226C4966C00DC989A /* CourseTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B5F9F126C4966C00DC989A /* CourseTableViewController.swift */; };
+		18B5F9F426C4968600DC989A /* AddCourseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B5F9F326C4968600DC989A /* AddCourseViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		185AF8A7269A462800F82D6E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		185AF8AA269A462800F82D6E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		185AF8AC269A462800F82D6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18B5F9ED26C4964800DC989A /* Course.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Course.swift; sourceTree = "<group>"; };
+		18B5F9EF26C4965700DC989A /* CourseList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseList.swift; sourceTree = "<group>"; };
+		18B5F9F126C4966C00DC989A /* CourseTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseTableViewController.swift; sourceTree = "<group>"; };
+		18B5F9F326C4968600DC989A /* AddCourseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCourseViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +71,10 @@
 				185AF8A7269A462800F82D6E /* Assets.xcassets */,
 				185AF8A9269A462800F82D6E /* LaunchScreen.storyboard */,
 				185AF8AC269A462800F82D6E /* Info.plist */,
+				18B5F9ED26C4964800DC989A /* Course.swift */,
+				18B5F9EF26C4965700DC989A /* CourseList.swift */,
+				18B5F9F126C4966C00DC989A /* CourseTableViewController.swift */,
+				18B5F9F326C4968600DC989A /* AddCourseViewController.swift */,
 			);
 			path = IosAppCambrianCoursesHarpreet;
 			sourceTree = "<group>";
@@ -137,8 +149,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18B5F9EE26C4964800DC989A /* Course.swift in Sources */,
+				18B5F9F026C4965700DC989A /* CourseList.swift in Sources */,
 				185AF8A3269A462400F82D6E /* ViewController.swift in Sources */,
 				185AF89F269A462400F82D6E /* AppDelegate.swift in Sources */,
+				18B5F9F426C4968600DC989A /* AddCourseViewController.swift in Sources */,
+				18B5F9F226C4966C00DC989A /* CourseTableViewController.swift in Sources */,
 				185AF8A1269A462400F82D6E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
