@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1856CA6426C735CC00CEBA26 /* AvailableCourseTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1856CA6326C735CC00CEBA26 /* AvailableCourseTableViewController.swift */; };
 		185AF89F269A462400F82D6E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185AF89E269A462400F82D6E /* AppDelegate.swift */; };
 		185AF8A1269A462400F82D6E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185AF8A0269A462400F82D6E /* SceneDelegate.swift */; };
 		185AF8A3269A462400F82D6E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185AF8A2269A462400F82D6E /* ViewController.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1856CA6326C735CC00CEBA26 /* AvailableCourseTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvailableCourseTableViewController.swift; sourceTree = "<group>"; };
 		185AF89B269A462400F82D6E /* IosAppCambrianCoursesHarpreet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IosAppCambrianCoursesHarpreet.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		185AF89E269A462400F82D6E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		185AF8A0269A462400F82D6E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				18B5F9EF26C4965700DC989A /* CourseList.swift */,
 				18B5F9F126C4966C00DC989A /* CourseTableViewController.swift */,
 				18B5F9F326C4968600DC989A /* AddCourseViewController.swift */,
+				1856CA6326C735CC00CEBA26 /* AvailableCourseTableViewController.swift */,
 			);
 			path = IosAppCambrianCoursesHarpreet;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				18B5F9F026C4965700DC989A /* CourseList.swift in Sources */,
 				185AF8A3269A462400F82D6E /* ViewController.swift in Sources */,
 				185AF89F269A462400F82D6E /* AppDelegate.swift in Sources */,
+				1856CA6426C735CC00CEBA26 /* AvailableCourseTableViewController.swift in Sources */,
 				18B5F9F426C4968600DC989A /* AddCourseViewController.swift in Sources */,
 				18B5F9F226C4966C00DC989A /* CourseTableViewController.swift in Sources */,
 				185AF8A1269A462400F82D6E /* SceneDelegate.swift in Sources */,
